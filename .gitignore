@@ -1,0 +1,22 @@
+node_modules
+dist
+playwright-report
+test-results
+*.log
+
+# Primary-source text is the author's work: read it locally, never republish it.
+docs/sources/
+e2e-fail-*.png
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+*.egg-info/
+build/
+dist/
+.nicegui/

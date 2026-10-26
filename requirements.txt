@@ -1,0 +1,2 @@
+# Fallback for people who prefer `pip install -r requirements.txt`; pyproject.toml is the source of truth.
+nicegui>=2.0
